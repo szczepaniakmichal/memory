@@ -72,5 +72,8 @@ div{
 
 /* hidden elements */
 .hidden{
+/* for test comment background-color  */
 background-color: black;
+
+/* opacity: 0.2; */
 }
